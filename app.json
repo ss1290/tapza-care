@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Tapza Care",
+    "slug": "tapza-care",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.tapza.care"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
