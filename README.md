@@ -14,7 +14,7 @@ The Android native project is already generated. To regenerate it after changing
 
 ## Installable build
 
-The demo APK is docs/TapzaCare.apk. It is signed with the project's debug key for assignment review and sideloading; it is not a Play Store release.
+The public repository is https://github.com/ss1290/tapza-care. Download the APK from https://github.com/ss1290/tapza-care/releases/latest. The APK is signed with the project's debug key for assignment review and sideloading; it is not a Play Store build.
 
 To build another release APK on Windows:
 
@@ -53,4 +53,4 @@ The recording has no voice-over. It shows both home themes, a forced booking fai
 
 The endpoints are in-memory mocks; there is no live server, authentication, persistent storage, or scheduled local notifications. Some secondary home shortcuts are visual previews. Automated tests were removed at the user's request, although the assignment asks for config, renderer, and booking-state tests. AI_LOG.md was also removed at the user's request, although the assignment asks for it.
 
-This is a single initial snapshot; the requested meaningful 48-hour commit history cannot be recreated honestly after the fact. No GitHub Release is attached yet. Exact assignment hours were not tracked, so I have not estimated them.
+This is a single initial snapshot; the requested meaningful 48-hour commit history cannot be recreated honestly after the fact. The repository has an initial snapshot plus a publication update; the requested 48-hour history cannot be recreated honestly. Exact assignment hours were not tracked, so I have not estimated them.
